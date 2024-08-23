@@ -1,5 +1,7 @@
+### Developed By : KANISHKAR M
+### Reg No: 212222240044
+### Date :
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 22/08/2024
 
 # AIM:
 To Develop a python program to Plot a time series data for pH level for water quality
